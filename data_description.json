@@ -1,0 +1,17 @@
+[
+  {
+    "column": "Year",
+    "type": "Integer",
+    "description": "Calendar year ranging from 2001 to 2020."
+  },
+  {
+    "column": "Primary Enrollment",
+    "type": "Float",
+    "description": "Total number of students enrolled in primary education in Australia for the given year."
+  },
+  {
+    "column": "GDP per Capita",
+    "type": "Float",
+    "description": "Gross Domestic Product per capita (current US dollars) for Australia in the given year."
+  }
+]
