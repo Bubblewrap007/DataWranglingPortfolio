@@ -30,4 +30,4 @@ To investigate whether there's a trend between rising GDP per capita and increas
 
 ##Contact
 
-Created for academic purposes. For questions, contact Hawkins.Quashawn92@Gmail.com
+Created for academic purposes.
